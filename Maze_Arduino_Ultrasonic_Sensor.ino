@@ -1,4 +1,4 @@
-// Arduino Robot Solving Maze using One Ultrasonic Sensors
+// Arduino Robot Solving Maze using One Ultrasonic Sensor
 // Dr. Ahmad Faisal Mohamad Ayob
 // July 2018
 // Petrosains Robotics Competition 2018
