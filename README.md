@@ -3,11 +3,13 @@ Listed in this repository are the Maze Runner Codes for PETROSAINS ROBOTIS COMPE
 The Arduino codes are self-explanatory. 
 The sensors test kit set is also included. 
 
-[![Alt text](https://img.youtube.com/vi/4iiuZ9tE4Vk/0.jpg)](https://www.youtube.com/watch?v=4iiuZ9tE4Vk)
-Ultrasonic Sensor Example
+| [![Alt text](https://img.youtube.com/vi/4iiuZ9tE4Vk/0.jpg)](https://www.youtube.com/watch?v=4iiuZ9tE4Vk) |
+|:--:| 
+| *Ultrasonic Sensor Example* |
 
-[![Alt text](https://img.youtube.com/vi/kcM638Tvmso/0.jpg)](https://www.youtube.com/watch?v=kcM638Tvmso)
-Infrared Sensor Example
+| [![Alt text](https://img.youtube.com/vi/kcM638Tvmso/0.jpg)](https://www.youtube.com/watch?v=kcM638Tvmso) |
+|:--:| 
+| *Infrared Sensor Example* |
 
 
 Feel free to download.
